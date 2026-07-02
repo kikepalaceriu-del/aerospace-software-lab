@@ -1,3 +1,5 @@
+# Análisis de vuelo
+
 def analyze_flight(flight):
     result = {
         "max_altitude": flight["altitude"].max(),
